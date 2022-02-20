@@ -1,0 +1,1 @@
+web: gunicorn app:B1812335_MaiDuyDang_app
